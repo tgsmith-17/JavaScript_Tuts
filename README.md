@@ -1,2 +1,2 @@
 # JavaScript_Tuts
-Show to Dr. Bouchard on Monday, September 14th.
+Show to Dr. Bouchard on Tuesday, September 14th.
