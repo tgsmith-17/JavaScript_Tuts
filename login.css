@@ -1,0 +1,25 @@
+body {
+    background-color: #20ffbb;
+    text-align: center;
+    align-items: center;
+}
+
+.topText {
+    color: #888;
+    padding-top: 15%;
+}
+
+.pointer {
+    vertical-align: middle;
+    height: 100px;
+    width: 75px;
+}
+
+.loginButton {
+    align-self: flex-end;
+    background-color: rgb(196, 115, 78);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
